@@ -4,7 +4,7 @@
 
 Minhas principais tecnologias incluem **Python** (com **Flask**), **Java**, **SQL**, **HTML**, **CSS** e **JavaScript**. Atualmente, estou me aprofundando em análise de dados e automação de tarefas.
 
---
+---
 
 ### 💬 Onde me encontrar
 
