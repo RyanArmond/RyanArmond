@@ -6,17 +6,9 @@ Sou um estudante de Ciência da Computação na UFRRJ, apaixonado em transformar
 
 ---
 
-|                        |                        |
-|------------------------|------------------------|
-| **Python**             | **CSS3**              |
-| **Flask**              | **JavaScript**        |
-| **Java**               | **SQL**               |
-| **HTML5**              |                        |
+### 💻 Minhas Principais Habilidades
 
-
-### 💻 Minhas Habilidades
-
-- **Python**
+- **Python**                          
 - **Flask**
 - **Java**
 - **HTML5**
